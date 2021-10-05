@@ -54,3 +54,11 @@ Files relevant for this exercise are:
 └── .circleci
     └── config.yml          # Look for the smoke_test Job
 ```
+
+### 6. Exercise - Rollback
+Files relevant for this exercise are:
+```bash    
+└── template.yml            # Change the KeyName property value, as applicable to you       
+└── .circleci
+    └── config.yml          # Look for the create_infrastructure Job and destroy_environment command. 
+```
