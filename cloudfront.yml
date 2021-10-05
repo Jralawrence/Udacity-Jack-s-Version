@@ -1,6 +1,6 @@
 Parameters:
   # Existing Bucket name
-  PipelineID: mybucket550121635015
+  PipelineID:
     Description: Existing Bucket name
     Type: String
 
